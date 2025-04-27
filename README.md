@@ -1,7 +1,7 @@
 # Fuzzy Search hõ trợ tiếng Việt
 ## Install
 ```
-go get github.com/verse91/fuzzysearchvietnam
+go get github.com/verse91/fuzzyvn
 ```
 ## Example
 ```golang
