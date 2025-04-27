@@ -1,4 +1,4 @@
-# Fuzzy Search hõ trợ tiếng Việt
+# Fuzzy Search hỗ trợ tiếng Việt
 ## Install
 ```
 go get github.com/verse91/fuzzyvn
