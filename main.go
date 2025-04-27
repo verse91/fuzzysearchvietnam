@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/verse91/fuzzysearchvn/fuzzy"
+	"github.com/verse91/fuzzysearchvn"
 )
 
 func main() {
