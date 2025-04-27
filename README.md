@@ -5,7 +5,7 @@ go get github.com/verse91/fuzzyvn
 ```
 ## Example
 ```golang
-        // Đọc file list.txt
+        // Đọc file list.txt ở nhánh master
 	file, err := os.Open("list.txt")
 	if err != nil {
 		log.Fatal(err)
